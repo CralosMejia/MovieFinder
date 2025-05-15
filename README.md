@@ -1,6 +1,6 @@
 # 🎬 MovieFinder - Recomendador de Películas por Plataforma
 
-MovieFinder es una API diseñada para facilitar a los usuarios la búsqueda de películas y la obtención de recomendaciones personalizadas según la plataforma de streaming disponible. Ideal para quienes desean optimizar su tiempo y descubrir contenido adaptado a sus preferencias.
+MovieFinder será una API diseñada para facilitar a los usuarios la búsqueda de películas y la obtención de recomendaciones personalizadas según la plataforma de streaming disponible. Ideal para quienes desean optimizar su tiempo y descubrir contenido adaptado a sus preferencias.
 
 ## 🚀 Casos de uso
 
